@@ -1,219 +1,33 @@
- Mortalidade - Pernambuco
-Óbitos p/Ocorrênc por Microrregião IBGE/Município
-Período:2018
-"Microrregião IBGE/Município";"Óbitos_p/Ocorrênc"
-"26001 Araripina";1727
-"..... Araripina";357
-"..... Bodocó";107
-"..... Exu";123
-"..... Granito";25
-"..... Ipubi";91
-"..... Moreilândia";33
-"..... Ouricuri";819
-"..... Santa Cruz";44
-"..... Santa Filomena";40
-"..... Trindade";88
-"26002 Salgueiro";933
-"..... Cedro";35
-"..... Mirandiba";45
-"..... Parnamirim";69
-"..... Salgueiro";596
-"..... São José do Belmonte";124
-"..... Serrita";37
-"..... Verdejante";27
-"26003 Pajeú";1980
-"..... Afogados da Ingazeira";349
-"..... Brejinho";28
-"..... Calumbi";9
-"..... Carnaíba";86
-"..... Flores";81
-"..... Iguaracy";45
-"..... Ingazeira";14
-"..... Itapetim";70
-"..... Quixaba";21
-"..... Santa Cruz da Baixa Verde";50
-"..... Santa Terezinha";43
-"..... São José do Egito";172
-"..... Serra Talhada";734
-"..... Solidão";23
-"..... Tabira";128
-"..... Triunfo";83
-"..... Tuparetama";44
-"26004 Sertão Moxotó";1405
-"..... Arcoverde";859
-"..... Betânia";55
-"..... Custódia";180
-"..... Ibimirim";81
-"..... Inajá";45
-"..... Manari";52
-"..... Sertânia";133
-"26005 Petrolina";2863
-"..... Afrânio";87
-"..... Cabrobó";131
-"..... Dormentes";77
-"..... Lagoa Grande";91
-"..... Orocó";58
-"..... Petrolina";2252
-"..... Santa Maria da Boa Vista";146
-"..... Terra Nova";21
-"26006 Itaparica";513
-"..... Belém do São Francisco";68
-"..... Carnaubeira da Penha";28
-"..... Floresta";137
-"..... Itacuruba";15
-"..... Jatobá";63
-"..... Petrolândia";134
-"..... Tacaratu";68
-"26007 Vale do Ipanema";671
-"..... Águas Belas";192
-"..... Buíque";159
-"..... Itaíba";94
-"..... Pedra";79
-"..... Tupanatinga";80
-"..... Venturosa";67
-"26008 Vale do Ipojuca";6502
-"..... Alagoinha";59
-"..... Belo Jardim";372
-"..... Bezerros";430
-"..... Brejo da Madre de Deus";174
-"..... Cachoeirinha";95
-"..... Capoeiras";86
-"..... Caruaru";3840
-"..... Gravatá";373
-"..... Jataúba";83
-"..... Pesqueira";311
-"..... Poção";64
-"..... Riacho das Almas";99
-"..... Sanharó";87
-"..... São Bento do Una";207
-"..... São Caitano";178
-"..... Tacaimbó";44
-"26009 Alto Capibaribe";1170
-"..... Casinhas";60
-"..... Frei Miguelinho";62
-"..... Santa Cruz do Capibaribe";343
-"..... Santa Maria do Cambucá";55
-"..... Surubim";333
-"..... Taquaritinga do Norte";96
-"..... Toritama";123
-"..... Vertente do Lério";27
-"..... Vertentes";71
-"26010 M.Capibaribe";1429
-"..... Bom Jardim";179
-"..... Cumaru";55
-"..... Feira Nova";84
-"..... João Alfredo";119
-"..... Limoeiro";633
-"..... Machados";52
-"..... Orobó";97
-"..... Passira";108
-"..... Salgadinho";22
-"..... São Vicente Ferrer";80
-"26011 Garanhuns";3043
-"..... Angelim";40
-"..... Bom Conselho";250
-"..... Brejão";30
-"..... Caetés";100
-"..... Calçado";37
-"..... Canhotinho";108
-"..... Correntes";53
-"..... Garanhuns";1622
-"..... Iati";72
-"..... Jucati";46
-"..... Jupi";77
-"..... Jurema";96
-"..... Lagoa do Ouro";51
-"..... Lajedo";184
-"..... Palmeirina";27
-"..... Paranatama";65
-"..... Saloá";72
-"..... São João";89
-"..... Terezinha";24
-"26012 Brejo PE";1024
-"..... Agrestina";135
-"..... Altinho";99
-"..... Barra de Guabiraba";37
-"..... Bonito";182
-"..... Camocim de São Félix";64
-"..... Cupira";135
-"..... Ibirajuba";33
-"..... Lagoa dos Gatos";64
-"..... Panelas";121
-"..... Sairé";41
-"..... São Joaquim do Monte";113
-"26013 Mata Set.PE";2126
-"..... Aliança";103
-"..... Buenos Aires";42
-"..... Camutanga";48
-"..... Carpina";273
-"..... Condado";70
-"..... Ferreiros";43
-"..... Goiana";381
-"..... Itambé";124
-"..... Itaquitinga";51
-"..... Lagoa de Itaenga";70
-"..... Lagoa do Carro";56
-"..... Macaparana";125
-"..... Nazaré da Mata";180
-"..... Paudalho";153
-"..... Timbaúba";280
-"..... Tracunhaém";41
-"..... Vicência";86
-"26014 Vitória S.Antão";1039
-"..... Chã de Alegria";39
-"..... Chã Grande";76
-"..... Glória do Goitá";68
-"..... Pombos";100
-"..... Vitória de Santo Antão";756
-"26015 Mata Merid.PE";2506
-"..... Água Preta";64
-"..... Amaraji";97
-"..... Barreiros";192
-"..... Belém de Maria";41
-"..... Catende";131
-"..... Cortês";44
-"..... Escada";210
-"..... Gameleira";79
-"..... Jaqueira";43
-"..... Joaquim Nabuco";42
-"..... Maraial";29
-"..... Palmares";891
-"..... Primavera";36
-"..... Quipapá";88
-"..... Ribeirão";110
-"..... Rio Formoso";65
-"..... São Benedito do Sul";31
-"..... São José da Coroa Grande";91
-"..... Sirinhaém";104
-"..... Tamandaré";71
-"..... Xexéu";47
-"26016 Itamaracá";640
-"..... Araçoiaba";44
-"..... Igarassu";466
-"..... Ilha de Itamaracá";80
-"..... Itapissuma";50
-"26017 Recife";30994
-"..... Abreu e Lima";196
-"..... Camaragibe";302
-"..... Jaboatão dos Guararapes";2693
-"..... Moreno";132
-"..... Olinda";1832
-"..... Paulista";2361
-"..... Recife";22987
-"..... São Lourenço da Mata";491
-"26018 Suape";1803
-"..... Cabo de Santo Agostinho";1548
-"..... Ipojuca";255
-"26019 Fern.Noronha";3
-"..... Fernando de Noronha";3
-"26000 Ignorado - PE";1
-"Total";62372
- Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
- Consulte o site da Secretaria Estadual de Saúde para mais informações.
- Nota:
- 
- Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
- utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
- "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
- No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
- 
+ Instalações sanitárias - Brasil
+Domicílios por Unidade da Federação e Instalações sanitárias
+Período:2010
+"Unidade da Federação";"Rede geral de esgoto ou pluvial";"Fossa séptica";"Fossa rudimendar";"Vala";"Rio, lago ou mar";"Outro escoadouro";"Não tem instalação sanitária";"Total"
+"11 Rondônia";27637;73113;326457;7779;3481;9892;7240;455599
+"12 Acre";46550;23123;52829;26376;4450;20537;16780;190645
+"13 Amazonas";210575;141775;273525;52452;41149;39672;40481;799629
+"14 Roraima";17660;33991;50129;1829;364;5247;6624;115844
+"15 Pará";189398;388597;893527;132099;36024;141654;77866;1859165
+"16 Amapá";10422;26417;86453;5242;19122;5448;3180;156284
+"17 Tocantins";53611;62033;235261;6163;467;9146;31686;398367
+"21 Maranhão";192625;248163;746505;125581;13483;99316;228028;1653701
+"22 Piauí";59346;187214;396572;14911;1725;19491;169004;848263
+"23 Ceará";774879;251195;1074455;39674;17071;36718;171284;2365276
+"24 Rio Grande do Norte";226028;180783;449534;12425;3054;10284;17405;899513
+"25 Paraíba";431659;101042;411460;40416;14676;21622;59797;1080672
+"26 Pernambuco";1111725;291043;781160;107692;79494;51385;124373;2546872
+"27 Alagoas";180616;94540;457177;24080;16598;16268;53605;842884
+"28 Sergipe";233518;63106;246744;12492;7674;9903;17878;591315
+"29 Bahia";1858998;260445;1399964;111277;65307;74067;324347;4094405
+"31 Minas Gerais";4543436;195260;830492;66027;276391;40889;75728;6028223
+"32 Espírito Santo";743536;71404;191851;37175;48174;4627;4627;1101394
+"33 Rio de Janeiro";4015702;503123;298652;245005;150145;23670;6714;5243011
+"35 São Paulo";11124904;603553;601433;129676;304899;53140;9548;12827153
+"41 Paraná";1759006;384038;1063181;34332;29397;16612;12012;3298578
+"42 Santa Catarina";579576;947168;384013;44168;24524;7887;5761;1993097
+"43 Rio Grande do Sul";1731575;952483;743237;104633;24334;19728;23614;3599604
+"50 Mato Grosso do Sul";183694;110444;449035;5081;958;7325;2762;759299
+"51 Mato Grosso";177689;151101;556313;6010;4611;6763;12602;915089
+"52 Goiás";679347;243154;936651;4410;5144;6153;11405;1886264
+"53 Distrito Federal";623154;65109;84020;561;125;411;641;774021
+"Total";31786866;6653417;14020630;1397566;1192841;757855;1514992;57324167
+ Fonte: IBGE - Censos Demográficos de 1991, 2000 e 2010
