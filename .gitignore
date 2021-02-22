@@ -1,3 +1,7 @@
+# Checkpoints 
+*.ipynb_checkpoints
+
+# analise dados em saúde
 Analise Dados Saúde/.ipynb_checkpoints
 Analise Dados Saude e Educação/.ipynb_checkpoints
 Analise Dados Saude e Educação/dados/*
